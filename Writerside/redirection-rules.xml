@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="3d4c65d6">
+        <description>Created after removal of "Empty MD Topic" from Saint Mary's Gate</description>
+        <accepts>Empty-MD-Topic.html</accepts>
+    </rule>
+    <rule id="23571e32">
+        <description>Created after removal of "Discover Saint Mary's Gate" from Saint Mary's Gate</description>
+        <accepts>Discover-SMG.html</accepts>
+    </rule>
+    <rule id="20bf8377">
+        <description>Created after removal of "Overview" from Saint Mary's Gate</description>
+        <accepts>Overview.html</accepts>
+    </rule>
+    <rule id="2539118e">
+        <description>Created after removal of "Protocol" from Saint Mary's Gate</description>
+        <accepts>Protocol.html</accepts>
+    </rule>
+    <rule id="14b8d808">
+        <description>Created after removal of "Networking" from Saint Mary's Gate</description>
+        <accepts>Networking.html</accepts>
+    </rule>
+    <rule id="45b164b6">
+        <description>Created after removal of "SSL Integration" from Saint Mary's Gate</description>
+        <accepts>SSL-Integration.html</accepts>
+    </rule>
+    <rule id="1ea2c54">
+        <description>Created after removal of "Setup at home" from Saint Mary's Gate</description>
+        <accepts>Setup-at-home.html</accepts>
+    </rule>
+    <rule id="4a3ea306">
+        <description>Created after removal of "DData" from Saint Mary's Gate</description>
+        <accepts>DData.html</accepts>
+    </rule>
+</rules>
