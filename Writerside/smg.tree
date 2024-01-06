@@ -5,7 +5,6 @@
 <instance-profile id="smg"
                  name="Saint Mary's Gate"
                  start-page="Starter.md">
-
     <toc-element topic="Starter.md"/>
     <toc-element topic="Overview.md"/>
     <toc-element topic="Coral.md">

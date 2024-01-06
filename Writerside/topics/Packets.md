@@ -12,7 +12,6 @@ All packets contain an identifier, which is a single byte to identify the packet
 
 <seealso>
     <category ref="related">
-        <a href="Networking.md">Networking</a>
         <a href="Glossary.md">Glossary</a>
     </category>
 </seealso>
