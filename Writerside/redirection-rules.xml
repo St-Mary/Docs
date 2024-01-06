@@ -38,4 +38,24 @@
         <description>Created after removal of "DData" from Saint Mary's Gate</description>
         <accepts>DData.html</accepts>
     </rule>
+    <rule id="6ea4576d">
+        <description>Created after removal of "Set up SSL Certificates" from Saint Mary's Gate</description>
+        <accepts>Set-up-SSL-Certificates.html</accepts>
+    </rule>
+    <rule id="37611ac7">
+        <description>Created after removal of "Run Homemade" from Saint Mary's Gate</description>
+        <accepts>Run-Homemade.html</accepts>
+    </rule>
+    <rule id="556a3265">
+        <description>Created after removal of "The Protocol" from Saint Mary's Gate</description>
+        <accepts>The-Protocol.html</accepts>
+    </rule>
+    <rule id="5f1927f">
+        <description>Created after removal of "User Accounts" from Saint Mary's Gate</description>
+        <accepts>User-Accounts.html</accepts>
+    </rule>
+    <rule id="74e4823a">
+        <description>Created after removal of "Data" from Saint Mary's Gate</description>
+        <accepts>Data.html</accepts>
+    </rule>
 </rules>

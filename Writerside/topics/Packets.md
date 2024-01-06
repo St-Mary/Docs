@@ -8,13 +8,7 @@
     See <a href="Glossary.md#packet">Packet</a> to understand what a packet is.
 </note>
 
-All packets contain an identifier, which is a single byte to identify the packet type.
-
-<seealso>
-    <category ref="related">
-        <a href="Glossary.md">Glossary</a>
-    </category>
-</seealso>
+All packets contain an identifier, which is a single byte to identify the packet type, and the packet data, which can be anything.
 
 ## Packet List
 
@@ -27,3 +21,9 @@ Here is a list of all the packets, and their identifiers.
 | `3`        | `loginusingcredentials` | This packet is used to login with credentials (username, password) to the server.                |
 | `4`        | `loginusingjwt`         | This packet is used to login with a JWT token to the server.                                     |
 | `5`        | `loginresult`           | The packet sent by the server to tell the client if the login was successful or not.             |
+
+<seealso>
+    <category ref="related">
+        <a href="Glossary.md">Glossary</a>
+    </category>
+</seealso>

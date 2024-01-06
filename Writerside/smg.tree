@@ -11,16 +11,12 @@
         <toc-element topic="Packets.md"/>
     </toc-element>
     <toc-element topic="Luna.md">
+        <toc-element topic="The-Database.md"/>
         <toc-element topic="SSL-Integration.md"/>
-    </toc-element>
-    <toc-element topic="Run-Homemade.md">
-        <toc-element topic="Set-up-SSL-Certificates.md"/>
+        <toc-element topic="Set-up-BCrypt-Hashing.md"/>
+        <toc-element topic="Set-up-JWT-Authentification.md"/>
     </toc-element>
     <toc-element topic="Cassandra.md">
-    </toc-element>
-    <toc-element topic="Data.md">
-        <toc-element topic="User-Accounts.md"/>
-        <toc-element topic="The-Database.md"/>
     </toc-element>
     <toc-element topic="Glossary.md"/>
 </instance-profile>
